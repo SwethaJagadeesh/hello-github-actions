@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to say hello
     steps:
-    - name: Hello world action step 
+    - name: Hello world action step
       id: hello
       uses: SwethaJagadeesh/hello-github-actions@2.0
