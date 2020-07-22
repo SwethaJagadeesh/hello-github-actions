@@ -7,4 +7,4 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: SwethaJagadeesh/hello-github-actions@v1.3
+      uses: SwethaJagadeesh/hello-github-actions@v2.0
