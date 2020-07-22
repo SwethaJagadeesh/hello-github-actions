@@ -1,0 +1,8 @@
+name: 'Say Hello World'
+description: 'Print a Hello World for the actions'
+branding:
+  icon: 'printer'  
+  color: 'purple'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
